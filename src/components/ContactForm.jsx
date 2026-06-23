@@ -73,7 +73,7 @@ export default function ContactForm() {
             {!isFormValid ? 
             (<form className="contact-form" onSubmit={handleSubmit}>
                 <div className="input-container">
-                    <label for="name" className="sr-only">Name</label>
+                    <label htmlFor="name" className="sr-only">Name</label>
                     <input 
                     className="input"
                     type="text" 
@@ -87,7 +87,7 @@ export default function ContactForm() {
                 </div>
 
                 <div className="input-container">
-                    <label for="email" className="sr-only">Email</label>
+                    <label htmlFor="email" className="sr-only">Email</label>
                     <input 
                     className="input"
                     type="email" 
@@ -101,7 +101,7 @@ export default function ContactForm() {
                 </div>
 
                 <div className="input-container">
-                    <label for="message" className="sr-only">Message</label>
+                    <label htmlFor="message" className="sr-only">Message</label>
                     <textarea 
                     className="text-input"
                     placeholder={t('placeholder-message')} 
