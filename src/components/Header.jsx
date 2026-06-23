@@ -42,12 +42,12 @@ export default function Header() {
                             </button>
                         </li>
                         <li>
-                            <button onClick={() => { i18n.changeLanguage('en'); setIsOpen(false) }}>
+                            <button onClick={() => { i18n.changeLanguage('de'); setIsOpen(false) }}>
                                 <img className="german-language flag" src={germanFlag} alt="select german language"></img>
                             </button>
                         </li>
                         <li>
-                            <button onClick={() => { i18n.changeLanguage('en'); setIsOpen(false) }}>
+                            <button onClick={() => { i18n.changeLanguage('id'); setIsOpen(false) }}>
                                 <img className="indonesian-language flag" src={indonesiaFlag} alt="select indonesian language"></img>
                             </button>
                         </li>
