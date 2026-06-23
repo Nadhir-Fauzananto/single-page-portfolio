@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="72" height="144" viewBox="0 0 72 144">
+  <!-- Row 1 -->
+  <circle cx="9"  cy="9"   r="3" fill="#FFF"/>
+  <circle cx="27" cy="9"   r="3" fill="#FFF"/>
+  <circle cx="45" cy="9"   r="3" fill="#FFF"/>
+  <circle cx="63" cy="9"   r="3" fill="#FFF"/>
+  <!-- Row 2 -->
+  <circle cx="9"  cy="27"  r="3" fill="#FFF"/>
+  <circle cx="27" cy="27"  r="3" fill="#FFF"/>
+  <circle cx="45" cy="27"  r="3" fill="#FFF"/>
+  <circle cx="63" cy="27"  r="3" fill="#FFF"/>
+  <!-- Row 3 -->
+  <circle cx="9"  cy="45"  r="3" fill="#FFF"/>
+  <circle cx="27" cy="45"  r="3" fill="#FFF"/>
+  <circle cx="45" cy="45"  r="3" fill="#FFF"/>
+  <circle cx="63" cy="45"  r="3" fill="#FFF"/>
+  <!-- Row 4 -->
+  <circle cx="9"  cy="63"  r="3" fill="#FFF"/>
+  <circle cx="27" cy="63"  r="3" fill="#FFF"/>
+  <circle cx="45" cy="63"  r="3" fill="#FFF"/>
+  <circle cx="63" cy="63"  r="3" fill="#FFF"/>
+  <!-- Row 5 -->
+  <circle cx="9"  cy="81"  r="3" fill="#FFF"/>
+  <circle cx="27" cy="81"  r="3" fill="#FFF"/>
+  <circle cx="45" cy="81"  r="3" fill="#FFF"/>
+  <circle cx="63" cy="81"  r="3" fill="#FFF"/>
+  <!-- Row 6 -->
+  <circle cx="9"  cy="99"  r="3" fill="#FFF"/>
+  <circle cx="27" cy="99"  r="3" fill="#FFF"/>
+  <circle cx="45" cy="99"  r="3" fill="#FFF"/>
+  <circle cx="63" cy="99"  r="3" fill="#FFF"/>
+  <!-- Row 7 -->
+  <circle cx="9"  cy="117" r="3" fill="#FFF"/>
+  <circle cx="27" cy="117" r="3" fill="#FFF"/>
+  <circle cx="45" cy="117" r="3" fill="#FFF"/>
+  <circle cx="63" cy="117" r="3" fill="#FFF"/>
+  <!-- Row 8 -->
+  <circle cx="9"  cy="135" r="3" fill="#FFF"/>
+  <circle cx="27" cy="135" r="3" fill="#FFF"/>
+  <circle cx="45" cy="135" r="3" fill="#FFF"/>
+  <circle cx="63" cy="135" r="3" fill="#FFF"/>
+</svg>

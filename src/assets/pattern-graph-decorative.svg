@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="681" viewBox="0 0 200 454">
+  <!-- Copy 1 -->
+  <g transform="translate(0, 0)">
+    <polyline
+      points="40,100 75,60 110,80 145,35 180,50"
+      stroke="#FFF" stroke-width="0.5" fill="none"
+      stroke-linejoin="round" stroke-linecap="round"
+      opacity="1"/>
+  </g>
+  <!-- Copy 2 -->
+  <g transform="translate(0, 10)">
+    <polyline
+      points="40,100 75,60 110,80 145,35 180,50"
+      stroke="#FFF" stroke-width="0.5" fill="none"
+      stroke-linejoin="round" stroke-linecap="round"
+      opacity="1"/>
+  </g>
+  <!-- Copy 3 -->
+  <g transform="translate(0, 20)">
+    <polyline
+      points="40,100 75,60 110,80 145,35 180,50"
+      stroke="#FFF" stroke-width="0.5" fill="none"
+      stroke-linejoin="round" stroke-linecap="round"
+      opacity="1"/>
+  </g>
+</svg>

@@ -1,0 +1,32 @@
+{
+    "greeting": "Senang bertemu dengan anda! Saya ",
+    "intro": "Berbasis di Jerman, saya adalah developer front-end yang tertarik dalam membuat aplikasi web yang mudah digunakan dan disukai pengguna.",
+    "contact": "Kontak saya",
+    "expertise-time": "1 Tahun Pengalaman",
+    "frontend-development-certificate-name":"Frontend Development",
+    "frontend-development-certificate-org": "oleh Scrimba di Coursera",
+    "frontend-development-certificate-date": "Sertifikat diperoleh pada tanggal 25 Februari 2026",
+    "ui-design-certificate-name":"UI Design for Web Developers",
+    "ui-design-certificate-org": "oleh Scrimba di Coursera",
+    "ui-design-certificate-date": "Sertifikat diperoleh pada tanggal 16 Juni 2026",
+    "view-certificate": "Lihat Sertifikat",
+    "projecst": "Proyek-proyek",
+    "project-digitalbank": "Halaman Utama Bank Digital",
+    "project-space-travel": "Website Multi-halaman Perjalanan Luar Angkasa",
+    "project-pricing": "Komponen Harga dengan Toggle",
+    "project-ticket": "Tiket Generator",
+    "show-code": "Tunjukan Kode",
+    "live-demo": "Lihat Website",
+    "outro": "Saya ingin mendengar tentang proyek anda dan bagaimana saya bisa membantu. Silahkan isi formulir kontak ini, dan saya akan segera menghubungi.",
+    
+    "name-validation-error": "Nama harus diisi.",
+    "email-validation-error": "Alamat email yang benar harus diisi.",
+    "message-validation-error": "Pesan tidak bisa kosong.",
+    
+    "message-sent": "Pesan Terkirim!",
+    "message-error": "Pesan tidak dapat terkirim karena ada kesalahan di dalam formulir.",
+    "placeholder-name": "NAMA",
+    "placeholder-email": "EMAIL",
+    "placeholder-message": "PESAN",
+    "submit-button": "Kirim pesan"
+}

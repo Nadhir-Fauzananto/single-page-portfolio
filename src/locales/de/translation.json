@@ -1,0 +1,32 @@
+{
+    "greeting": "Schön, Sie kennenzulernen! Ich bin ",
+    "intro": "Als Frontend-Entwickler mit Wohnsitz in Deutschland entwickle ich mit großer Leidenschaft barrierefreie Webanwendungen, die bei den Nutzern gut ankommen.",
+    "contact": "Kontakt aufnehmen",
+    "expertise-time": "1 Jahr Erfahrung",
+    "frontend-development-certificate-name":"Frontend Development",
+    "frontend-development-certificate-org": "von Scrimba auf Coursera",
+    "frontend-development-certificate-date": "Zertifikat erworben am 25. Februar 2026",
+    "ui-design-certificate-name":"UI Design for Web Developers",
+    "ui-design-certificate-org": "von Scrimba auf Coursera",
+    "ui-design-certificate-date": "Zertifikat erworben am 16. Juni 2026",
+    "view-certificate": "Zertifikat anzeigen",
+    "projects": "Projekte",
+    "project-digitalbank": "Startseite der Digitalbank",
+    "project-space-travel": "Multiseitige Website zum Weltraumtourismus",
+    "project-pricing": "Preisangabe-Komponente mit Umschaltfunktion",
+    "project-ticket": "Ticket-Generator",
+    "show-code": "Code anzeigen",
+    "live-demo": "Live-Demo",
+    "outro": "Ich würde mich freuen, mehr über Ihre Projekte zu erfahren und zu lernen, wie ich Ihnen helfen kann. Bitte füllen Sie das Kontaktformular aus, und ich melde mich so schnell wie möglich.",
+    
+    "name-validation-error": "Name ist erforderlich.",
+    "email-validation-error": "Eine gültige E-Mail-Adresse ist erforderlich.",
+    "message-validation-error": "Die Nachricht darf nicht leer sein.",
+
+    "message-sent": "Nachricht gesendet!",
+    "message-error": "Die Nachricht kann aufgrund der Fehler nicht gesendet werden.",
+    "placeholder-name": "NAME",
+    "placeholder-email": "EMAIL",
+    "placeholder-message": "NACHRICHT",
+    "submit-button": "Nachricht senden"
+}

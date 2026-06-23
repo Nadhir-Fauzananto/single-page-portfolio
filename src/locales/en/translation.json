@@ -1,0 +1,32 @@
+{
+    "greeting": "Nice to meet you! I'm ",
+    "intro": "Based in Germany, I'm a front-end developer passionate about building accessible web apps that users love.",
+    "contact": "Contact Me",
+    "expertise-time": "1 Year Experience",
+    "frontend-development-certificate-name":"Frontend Development",
+    "frontend-development-certificate-org": "by Scrimba on Coursera",
+    "frontend-development-certificate-date": "Certificate earned at February 25, 2026",
+    "ui-design-certificate-name":"UI Design for Web Developers",
+    "ui-design-certificate-org": "by Scrimba on Coursera",
+    "ui-design-certificate-date": "Certificate earned at June 16, 2026",
+    "view-certificate": "View Certificate",
+    "projects": "Projects",
+    "project-digitalbank": "Digital Bank Frontpage",
+    "project-space-travel": "Space Travel Multi-page Website",
+    "project-pricing": "Pricing Component with Toggle",
+    "project-ticket": "Ticket Generator",
+    "show-code": "Show Code",
+    "live-demo": "Live Demo",
+    "outro": "I'd love to hear about your projects and how I can help. Please fill in the contact form and I'll get back to you as soon as possible.",
+    
+    "name-validation-error": "Name is required.",
+    "email-validation-error": "A valid email address is required.",
+    "message-validation-error": "Message cannot be empty.",
+
+    "message-sent": "Message Sent!",
+    "message-error": "Message cannot be sent because of the errors below.",
+    "placeholder-name": "NAME",
+    "placeholder-email": "EMAIL",
+    "placeholder-message": "MESSAGE",
+    "submit-button": "Send Message"
+}
