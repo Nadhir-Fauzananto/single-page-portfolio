@@ -32,13 +32,13 @@ export default function Header() {
                     </button>
                     <ul className="language-flag-container">
                         <li>
-                            <img className="english-language flag" src={englishFlag} onClick={() => i18n.changeLanguage('en')} alt="select english language"></img>
+                            <img role="button" className="english-language flag" src={englishFlag} onClick={() => i18n.changeLanguage('en')} alt="select english language"></img>
                         </li>
                         <li>
-                            <img className="german-language flag" src={germanFlag} onClick={() => i18n.changeLanguage('de')} alt="select german language"></img>
+                            <img role="button" className="german-language flag" src={germanFlag} onClick={() => i18n.changeLanguage('de')} alt="select german language"></img>
                         </li>
                         <li>
-                            <img className="indonesian-language flag" src={indonesiaFlag} onClick={() => i18n.changeLanguage('id')} alt="select indonesian language"></img>
+                            <img role="button" className="indonesian-language flag" src={indonesiaFlag} onClick={() => i18n.changeLanguage('id')} alt="select indonesian language"></img>
                         </li>
                     </ul>
                 </div>

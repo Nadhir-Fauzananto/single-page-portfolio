@@ -73,6 +73,7 @@ export default function ContactForm() {
             {!isFormValid ? 
             (<form className="contact-form" onSubmit={handleSubmit}>
                 <div className="input-container">
+                    <label for="name" className="sr-only">Name</label>
                     <input 
                     className="input"
                     type="text" 
@@ -80,11 +81,13 @@ export default function ContactForm() {
                     id="name"
                     name="fullName"
                     value={formData.fullName}
-                    onChange={handleInputChange}></input>
-                    {error.fullName ? <p className="error-message">{error.fullName}</p> : null}
+                    onChange={handleInputChange}
+                    aria-describedby="name-error-message"></input>
+                    {error.fullName ? <p className="error-message" id="name-error-message">{error.fullName}</p> : null}
                 </div>
 
                 <div className="input-container">
+                    <label for="email" className="sr-only">Email</label>
                     <input 
                     className="input"
                     type="email" 
@@ -92,19 +95,22 @@ export default function ContactForm() {
                     id="email"
                     name="email"
                     value={formData.email}
-                    onChange={handleInputChange}></input>
-                    {error.email ? <p className="error-message">{error.email}</p> : null}
+                    onChange={handleInputChange}
+                    aria-describedby="email-error-message"></input>
+                    {error.email ? <p className="error-message" id="email-error-message">{error.email}</p> : null}
                 </div>
 
                 <div className="input-container">
+                    <label for="message" className="sr-only">Message</label>
                     <textarea 
                     className="text-input"
                     placeholder={t('placeholder-message')} 
                     id="message"
                     name="message"
                     value={formData.message}
-                    onChange={handleInputChange}></textarea>
-                    {error.message ? <p className="error-message">{error.message}</p> : null}
+                    onChange={handleInputChange}
+                    aria-describedby="message-error-message"></textarea>
+                    {error.message ? <p className="error-message" id="message-error-message">{error.message}</p> : null}
                 </div>
 
                 <div className="submit-btn-container">
